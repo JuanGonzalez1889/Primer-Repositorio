@@ -1,2 +1,2 @@
-let FrasePrueba = "Rosario es de central";
+let FrasePrueba = "Rosario";
 console.log(FrasePrueba)
